@@ -10,6 +10,7 @@
 - 📫 How to reach me **Eid.Otaibi12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+ www.linkedin.com/in/eid-alotaibi-703597218
 <p align="left">
 </p>
 
