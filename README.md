@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eid1543&label=Profile%20views&color=0e75b6&style=flat" alt="eid1543" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering Concepts and Tools( like: Data warehousing, Spark, Hadoop, ..etc)**
+- 🌱 I’m currently learning ** Docker and microservices **
 - I’m also currently building **Data Engineering project ( ETL data pipline ) using python, databases, and airflow**
 
 - 💬 Ask me about **Java, python, problem solving**
